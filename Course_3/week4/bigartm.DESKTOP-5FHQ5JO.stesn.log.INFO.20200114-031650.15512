@@ -1,0 +1,4 @@
+Log file created at: 2020/01/14 03:16:50
+Running on machine: DESKTOP-5FHQ5JO
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0114 03:16:50.280278 12620 c_interface.cc:127] Logging enabled to .

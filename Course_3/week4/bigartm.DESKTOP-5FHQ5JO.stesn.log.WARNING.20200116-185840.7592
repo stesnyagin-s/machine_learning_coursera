@@ -1,0 +1,8 @@
+Log file created at: 2020/01/16 18:58:40
+Running on machine: DESKTOP-5FHQ5JO
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0116 18:58:40.122810 11792 helpers.cc:221] File already exists: batches\aaaaaa.batch
+W0116 18:58:40.795614  4232 helpers.cc:221] File already exists: batches\aaaaab.batch
+W0116 18:59:45.329731  2072 check_messages.h:1121] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0116 19:11:48.557652  2072 check_messages.h:1121] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0116 22:48:24.527437  2072 check_messages.h:1121] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
